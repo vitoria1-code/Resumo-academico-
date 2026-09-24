@@ -17,7 +17,6 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 1. `[Efeitos ambientais causados.]`
 2. `[Quanto de água é utilizado para a refrigeração dos data centers.]`
 3. `[Malefícios que isso pode causar a longo prazo.]`
-4. `[opcional]`
 
 ## Quadro de alinhamento
 
