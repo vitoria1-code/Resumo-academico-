@@ -24,7 +24,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 - Tema amplo: `[Sustentabilidade e tecnologia (TI Verde)]`
 - Objeto estudado: `[Os impactos ambientais dos data centers de IA]`
-- Contexto ou aplicação: `[Data Centers]`
+- Contexto ou aplicação: `[Funcionamento dos Data Centers]`
 - Aspecto que será analisado: `[Consumo de água em cada pergunta feita em aplicativos de IA]`
 - O que ficará fora do estudo: `[A utilização de eletricidade, condições de trabalho dos funcionários, etc. ]`
 
