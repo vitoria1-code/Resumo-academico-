@@ -10,7 +10,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Pergunta de pesquisa
 
-`[Quanto de consumo de água os Data Centers utiliza.]`
+`[Quanto de consumo de água os Data Centers utiliza e os efeitos na sustentabilidade do planeta.]`
 
 ## Verificação
 
