@@ -6,26 +6,26 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`[Quanto de consumo de água os Data Centers utiliza e os efeitos na sustentabilidade do planeta.]`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`[Analisar os impactos dos data centers sobre a sustentabilidade do planeta, considerando seus efeitos ambientais e as consequências para a população.]`
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
+1. `[Efeitos ambientais causados.]`
+2. `[Quanto de água é utilizado para a refrigeração dos data centers.]`
+3. `[Malefícios que isso pode causar a longo prazo.]`
 4. `[opcional]`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | `[Consumo de água]` |
+| Objetivo geral | `[Consientizar a população sobre a utilização abundante de água.]` |
+| Resultado esperado | `[A utilização consiente dos aplicativos de inteligencia artificial.]` |
 
 ## Produto da etapa
 
