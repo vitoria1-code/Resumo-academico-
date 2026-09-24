@@ -7,36 +7,36 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `[Vitória Tiemmy Carvalho Oda]`
+- Data: `[23/09/2026]`
 
 ## Preenchimento
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`[Sustentabilidade e tecnologia (TI Verde)]`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`[O uso abundante de água pelas empresas de data centers.]`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `[Sustentabilidade e tecnologia (TI Verde)]`
+- Objeto estudado: `[Os impactos ambientais dos data centers de IA]`
+- Contexto ou aplicação: `[Data Centers]`
+- Aspecto que será analisado: `[Consumo de água em cada pergunta feita em aplicativos de IA]`
+- O que ficará fora do estudo: `[A utilização de eletricidade, condições de trabalho dos funcionários, etc. ]`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`[É de suma importância conscientizar-se sobre o uso excessivo de água pelas empresas de data centers, cuja utilização na refrigeração dos servidores que processam sistemas de inteligência artificial pode chegar a 9,3 trilhões de litros anuais até 2030, considerando os comandos e as consultas realizados nos aplicativos.]`
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `[Sim]`
+- O tema pode ser estudado no prazo? `[Sim]`
+- O grupo possui acesso às fontes necessárias? `[Sim`]
 
 ## Produto da etapa
 
