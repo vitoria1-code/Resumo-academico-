@@ -30,7 +30,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Justificativa
 
-`[É de suma importância conscientizar-se sobre o uso excessivo de água pelas empresas de data centers, cuja utilização na refrigeração dos servidores que processam sistemas de inteligência artificial pode chegar a 9,3 trilhões de litros anuais até 2030, considerando os comandos e as consultas realizados nos aplicativos.]`
+`[É de suma importância conscientizar-se sobre o uso excessivo de água pelas empresas de data centers. De acordo com uma pesquisa da EESI, a utilização de água para a refrigeração dos servidores que processam sistemas de inteligência artificial pode chegar a 9,3 trilhões de litros anuais até 2030, considerando os comandos e as consultas realizados nos aplicativos.]`
 
 ### Viabilidade
 
