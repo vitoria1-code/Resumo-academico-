@@ -8,11 +8,11 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Referência completa: `[Bruno Nazih Nehme Nassar, Alexandre Rocha Almeida de Moraes. Regulação de data centersno Brasil: entre o direito ao desenvolvimento e a proteção ambiental. Google Academico, 2026]`
+* DOI ou URL: `[https://doi.org/10.62530/e026023]`
+* Base de origem: `[Google Academico]`
+* Leitor responsável: `[Vitoria Tiemmy Carvalho Oda]`
+* Data da leitura: `[10/10/2026]`
 
 ## Fichamento
 
@@ -26,7 +26,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Método utilizado
 
-`[preencher]`
+`[Analise de fontes acadêmicas, relatórios institucionais,  reportagens  especializadas  e  documentos  normativos  relacionados  à  temática  dos data  centers.]`
 
 ### Contexto, amostra ou dados
 
