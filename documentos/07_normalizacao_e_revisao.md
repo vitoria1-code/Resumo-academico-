@@ -6,10 +6,10 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-* Título do artigo: `[preencher]`
+* Título do artigo: `[​A Expansão dos Data Centers de Inteligência Artificial e a Gestão de Recursos Hídricos no Brasil: Tensões entre Desenvolvimento Tecnológico e Sustentabilidade Ambiental]`
 * Versão revisada: `[número]`
 * Data: `[dd/mm/aaaa]`
-* Responsável pela conferência final: `[preencher]`
+* Responsável pela conferência final: `[Vitória Tiemmy Carvalho Oda]`
 
 ## Revisão científica
 
