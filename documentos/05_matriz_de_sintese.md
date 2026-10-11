@@ -14,7 +14,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[Consumo de água pela integencia artificial.]`|`[Rafael Bruno Leite Bezerra, Andrea Lacerda Gomes de Brito. 2025.]`|`[O estudo destaca a necessidade consideral de uso de água os data centers consome.]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`[Consumo de água pela integencia artificial.]`|`[Rafael Bruno Leite Bezerra, Andrea Lacerda Gomes de Brito. 2025.]`|`[O estudo destaca a necessidade consideral de uso de água os data centers consome.]`|`[Os artigod Acesso à água no contexto da sociedade tecnológicamn a tensão entre a expansão da infraestrutura digital e a segurança hídrica – o caso dos data centers no Ceará e o A sede do leviatã digital: risco hídrico global, inteligência artificial e a crise socioambiental da infraestrutura no sul global, abordam temas semelhantes]`|`[preencher]`|`[preencher]`|
 
 ## Roteiro da revisão da literatura
 
