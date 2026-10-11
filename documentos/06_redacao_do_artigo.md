@@ -38,7 +38,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Considerações finais
 
-`[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
+`[​O avanço tecnológico e as infraestruturas de inteligência artificial configuram um fenômeno inexorável e de indiscutível relevância para o desenvolvimento econômico e para a evolução tecnológica no mercado internacional. Contudo, conforme os estudos, os data centers apresentam um consumo exorbitante de eletricidade e água potável para o resfriamento térmico dos servidores, colocando em risco a sustentabilidade e a segurança hídrica das populações. A exigência de bilhões de metros cúbicos de água doce em grande escala, além do alto gasto hídrico nas fases de treinamento de algoritmos e nas operações diárias que consomem dezenas de milhares de litros por hora, não pode ser tratada como mera consequência irrelevante do progresso. Diante disso, o estudo conclui que a regulação dos data centers no Brasil deve visar prioritariamente à prevenção socioambiental. É imprescindível que o sistema jurídico, ao estabelecer a obrigatoriedade da divulgação padronizada de relatórios anuais de consumo hídrico, promova o incentivo ao uso de fontes limpas de energia e de sistemas de resfriamento em circuito fechado ou por imersão, além de impor a realização prévia de licenciamento ambiental robusto, criando assim um meio ambiente ecologicamente equilibrado e assegurando um futuro sustentável.]`
 
 ## Resumo
 
