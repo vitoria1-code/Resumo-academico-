@@ -6,15 +6,15 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `[Eixo ou subtema 1]`
-2. `[Eixo ou subtema 2]`
-3. `[Eixo ou subtema 3, se necessário]`
+1. `[Consumo de água pela integencia artificial.]`
+2. `[Impactos ambientais dos data centers.]`
+3. `[Seguranca hídrica e desafios de gestão.]`
 
 ## Matriz de síntese
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`[Consumo de água pela integencia artificial.]`|`[Rafael Bruno Leite Bezerra, Andrea Lacerda Gomes de Brito. 2025.]`|`[O estudo destaca a necessidade consideral de uso de água os data centers consome.]`|`[preencher]`|`[preencher]`|`[preencher]`|
 
 ## Roteiro da revisão da literatura
 
