@@ -8,7 +8,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 # Título
 
-`[Título claro e coerente com o tema]`
+`[​A Expansão dos Data Centers de Inteligência Artificial e a Gestão de Recursos Hídricos no Brasil: Tensões entre Desenvolvimento Tecnológico e Sustentabilidade Ambiental]`
 
 ## Palavras-chave
 
