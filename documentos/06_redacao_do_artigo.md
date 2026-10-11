@@ -12,7 +12,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Palavras-chave
 
-`[palavra 1]; [palavra 2]; [palavra 3]`
+`[Inteligência artificial]; [Data centers]; [Regularização]`
 
 ## Introdução
 
@@ -20,21 +20,21 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Metodologia
 
-`[Informe o tipo de revisão, bases, estratégias de busca, período, critérios, triagem e forma de análise.]`
+`[É uma abordagem quelitativa, de natureza teórica, sem procedimentos práticos e baseados em referências teoricas.]`
 
 ## Revisão da literatura
 
 ### `[Eixo 1]`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+`[O consumo hídrico em alta demanda pode chegar a 75 mil litros em uma hora; os data centers precisam de água doce para seu resfriamento, o que pode causar sobrecarga nos reservatórios hídricos. Os artigos de 2024 e 2025 abordam dados sobre o consumo excessivo de água e seus malefícios para o meio ambiente. O consumo de água pelos data centers pode causar desigualdade socioambiental, provocando escassez de água potável.]`
 
 ### `[Eixo 2]`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+`[A ausência de regulação sobre as big techs contribui diretamente  para o alto consumo de recursos pelo data centers. Diante desse cenário, surgem iniciativas legislativas recentes no Brasil focadas nessa regulamentação. O principal artigo sobre o tema, publicado em 2026, destaca a impotância desse controle, pontando que a falta de normalização no país pode desencadear escassez e sobrecarga hídrica, uma vez que, sem água potável, os data centers inviabilizam o seu processo de resframento.]`
 
 ### Síntese crítica
 
-`[Apresente tendências, convergências, divergências e lacunas.]`
+`[Após a análise, é possivel abordar a relação entre a expansão da inteligencia artificial e os impactos associados a infraestrutura dos data centers, com destaque em consumo de água. Os estudos monstram como esse consumo de água afeta  não so o pais, como isso pode afetar o planeta, e como a falta de regularização deixa nas mãos do donos de big techs consumirem os recursos do planeta. Entre os aspectos a investigar estão as diferenças entre os resultados e a disponibilidade de dados especificos sobre o consumo hidrico.]`
 
 ## Considerações finais
 
@@ -46,7 +46,10 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Referências
 
-`[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
+`[A sede do leviatã digital: risco hídrico global, inteligência artificial e a crise
+socioambiental da infraestrutura no sul global. Disponivel em: https://doi.org/10.18391/9cbm5k51. Acesso em: 10/10/2026.
+Regulação de data centersno Brasil: entre o direito ao desenvolvimento e a proteção ambiental. Disponivel em: https://doi.org/10.62530/e026023. Acesso em: 10/10/2026.
+Acesso à água no contexto da sociedade tecnológicamn a tensão entre a expansão da infraestrutura digital e a segurança hídrica – o caso dos data centers no Ceará. Disponivel em: https://doi.org/10.48159/revistadoidcc.v9n2.e125. Acesso em: 10/10/2026]`
 
 ## Checklist
 
