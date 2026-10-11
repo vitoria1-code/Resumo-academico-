@@ -16,7 +16,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Introdução
 
-`[Apresente contexto, foco, problema ou lacuna, justificativa e objetivo.]`
+`[Introdução: O avanço acelerado da inteligência artificial tem gerado grandes investimentos mundiais. Nesse contexto geopolítico e econômico, o Brasil tem sido de grande interesse para o assentamento de grandes data centers, devido à abundância de recursos naturais e à sua matriz elétrica composta por cerca de 88% de fontes renováveis. ​Problema: Quanto de consumo de água os data centers utilizam e quais são os efeitos dessa demanda na sustentabilidade do planeta?. ​Objetivos: Analisar os impactos dos data centers sobre a sustentabilidade do planeta, considerando seus efeitos ambientais e as consequências para a população.]`
 
 ## Metodologia
 
