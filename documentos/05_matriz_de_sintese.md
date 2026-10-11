@@ -20,21 +20,21 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 1
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `[O avanço da inteligencia artificial torna importante compreender o cunsumo  de recursos naturais para manter sua infraestrutura.]`
+* Evidências que serão usadas: `[O cunsumo hídrico em alta demanda pode chegar a 75 mil litros em uma hora, os data centers precisam de água doce para seus refrigeramnetos o que pode causar sobrecarrega os reservatorios hídricos.]`
+* Comparação entre estudos: `[Os artigos de 2024 e 2025 abordam com dados sobre consumo demasiado de água e seus maleficios para o meio ambiente.]`
+* Ligação com o problema: `[O consumo de água pelos data centers pode causar desigualdade socioambiental, causando excasses de água potavel.]`
 
 ### Eixo 2
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `[A falta de regularizão das big teachs e como isso contribui com o cosnumo dos data centers.]`
+* Evidências que serão usadas: `[as iniciativas legislativas recentes do Brasil para a regularizão.]`
+* Comparação entre estudos: `[O principal artigo que aborda este tema é o e 2026, trazendo a importancia da regularização.]`
+* Ligação com o problema: `[A falta de regularização das big teachs no Brasil é o que pode estar causando a escasses e o sebrecarregamento hídrico no pais, pois sem água potavel os dat centers não conseguem fazer o refregeramento. ]`
 
 ## Síntese crítica provisória
 
-`[Escreva um parágrafo indicando tendências, divergências e lacunas.]`
+`[Após a analise é possivel abordar a relação entre a expansão da inteligencia artificial e os impactos associados a infraestrutura dos data centers, com destaque em consumo de água. Os estudos monstram como esse consumo de água afeta  não so o pais como isso pode afetar o planeta, e como a falta de regularização deixa nas mãos do donos de big teachs consumirem os recursos do planeta. Entre os aspectos a investigar estão as diferenças entre os resultados e a disponibilidade de dados especificos sobre o consumo hidrico.]`
 
 ## Checklist
 
