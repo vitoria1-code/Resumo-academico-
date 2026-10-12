@@ -30,11 +30,11 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ### `[Eixo 2]`
 
-`[A ausência de regulação sobre as big techs contribui diretamente  para o alto consumo de recursos pelo data centers. Diante desse cenário, surgem iniciativas legislativas recentes no Brasil focadas nessa regulamentação. O principal artigo sobre o tema, publicado em 2026, destaca a impotância desse controle, pontando que a falta de normalização no país pode desencadear escassez e sobrecarga hídrica, uma vez que, sem água potável, os data centers inviabilizam o seu processo de resframento.]`
+`[A ausência de regulação sobre as big techs contribui diretamente  para o alto consumo de recursos pelo data centers. Diante desse cenário, surgem iniciativas legislativas recentes no Brasil focadas nessa regulamentação. O principal artigo sobre o tema, publicado em 2026, destaca a impotância desse controle, apontando que a falta de normalização no país pode desencadear escassez e sobrecarga hídrica, uma vez que, sem água potável, os data centers inviabilizam o seu processo de resfriamento.]`
 
 ### Síntese crítica
 
-`[Após a análise, é possivel abordar a relação entre a expansão da inteligencia artificial e os impactos associados a infraestrutura dos data centers, com destaque em consumo de água. Os estudos monstram como esse consumo de água afeta  não so o pais, como isso pode afetar o planeta, e como a falta de regularização deixa nas mãos do donos de big techs consumirem os recursos do planeta. Entre os aspectos a investigar estão as diferenças entre os resultados e a disponibilidade de dados especificos sobre o consumo hidrico.]`
+`[Após a análise, é possível abordar a relação entre a expansão da inteligência artificial e os impactos associados à infraestrutura dos data centers, com destaque para o consumo de água. Os estudos mostram como esse consumo afeta não só o país, mas também o planeta, e como a falta de regulação deixa nas mãos dos donos das big techs a exploração dos recursos naturais. Entre os aspectos a investigar, estão as diferenças entre os resultados e a disponibilidade de dados específicos sobre o consumo hídrico.]`
 
 ## Considerações finais
 
