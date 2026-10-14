@@ -54,4 +54,4 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Vitória Tiemmy Carvalho Oda]` | `[Escolha do tema e pesquisa]` |
