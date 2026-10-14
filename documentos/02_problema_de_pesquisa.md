@@ -37,4 +37,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Vitória Tiemmy Carvalho Oda]` | `[Pesquisa para o resumo]` |
