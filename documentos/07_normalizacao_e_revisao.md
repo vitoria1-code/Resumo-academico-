@@ -46,7 +46,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`[preencher]`|`[preencher]`|`[preencher]`|`[nome]`|
+|`[Desenvolvimento e introdução]`|`[erros de ortografia]`|`[correção dos erros de ortografia]`|`[Vitótia Tiemmy Carvalho Oda]`|
 
 
 
